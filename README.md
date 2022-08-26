@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> <br/><br/>
 <p align="center">
-  <a href="https://github.com/Muhamad-Rizaludin/"><img src="https://readme-typing-svg.herokuapp.com?color=8B64FF&center=true&vCenter=true&lines=Student+STMIK+Bandung+Major+Informatic+Enginering;Berusaha+Menjadi+Lebih+Baik;"></a>
+  <a href="https://github.com/Muhamad-Rizaludin/"><img src="https://readme-typing-svg.herokuapp.com?color=8B64FF&center=true&vCenter=true&lines=Student+STMIK+Bandung;Major+Informatic+Enginering;Berusaha+Menjadi+Lebih+Baik;"></a>
 </p>
 
 <p align='center'>
@@ -12,9 +12,7 @@
        <a href="https://github.com/Muhamad-Rizaludin/"><img width="735px" alt="Muhamad Rizaludin Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Muhamad-Rizaludin&theme=github&line=8B64FF&point=d62976" /></a><br/><br/>
        <a href="https://github.com/Muhamad-Rizaludin">
    <img align="center" width="710px" src="https://github-profile-trophy.vercel.app/?username=Muhamad-Rizaludin&column=7" alt="Muhamad Rizaludin trophy stats"/>
-   </a><br/><br/>
-     <a href="https://wakatime.com/@Muhamad-Rizaludin">
-   <img align="center" width="710px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Muhamad-Rizaludin&layout=compact&icon_color=fff&title_color=fff&text_color=fff&bg_color=8B64FF" alt="Muhamad Rizaludin wakatime stats"/>
+   </a><br/>
 </p>
 
 <div align='center'>
