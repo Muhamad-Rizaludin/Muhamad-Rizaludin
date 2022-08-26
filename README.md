@@ -1,16 +1,29 @@
-### Hi there Welcome in My Profile 👋
+<h3 align="center">
+  Hi There Welcome to my profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3> <br/><br/>
+<p align="center">
+  <a href="https://github.com/Muhamad-Rizaludin/"><img src="https://readme-typing-svg.herokuapp.com?color=8B64FF&center=true&vCenter=true&lines=Im+Student+In+STMIK+Bandung+Major+Informatic+Enginering;Berusaha+Menjadi+Lebih+Baik;"></a>
+</p>
 
-<!--
-**Muhamad-Rizaludin/Muhamad-Rizaludin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+      <a href="https://github.com/Muhamad-Rizaludin/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayuik&layout=compact&icon_color=fff&title_color=fff&text_color=fff&bg_color=8B64FF" height=140 /></a>
+        <a href="https://github.com/Muhamad-Rizaludin/">  <img src="https://github-readme-stats.vercel.app/api?username=bayuik&hide=contribs,prs&show_icons=true&hide_border=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=8B64FF" height='140' /></a><br/><br/>
+       <a href="https://github.com/Muhamad-Rizaludin/"><img width="735px" alt="bayuik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bayuik&theme=github&line=8B64FF&point=d62976" /></a><br/><br/>
+       <a href="https://github.com/Muhamad-Rizaludin">
+   <img align="center" width="710px" src="https://github-profile-trophy.vercel.app/?username=Muhamad-Rizaludin&column=7" alt="Muhamad Rizaludin trophy stats"/>
+   </a><br/><br/>
+     <a href="https://wakatime.com/@bayuik">
+   <img align="center" width="710px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Muhamad-Rizaludin&layout=compact&icon_color=fff&title_color=fff&text_color=fff&bg_color=8B64FF" alt="Muhamad Rizaludin wakatime stats"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align='center'>
+     <p><strong>What i am learning/working on these days</strong></p>
+    - 🌱 I’m currently learning ReactJs and NodeJs with Express Framework</br>
+    - 💬 Bertanya padaku tentang apa saja karena saya percaya dengan mengajar saya jadi belajar :) .</br>
+</div>
+<h3 align='center'>Let's connect</h3>
+<p align='center'>
+    <a href="https://www.linkedin.com/in/muhamad-rizaludin-754b821aa/?utm_source=Linkedln_MuhamadRizaludin" target="blank"><img src="https://img.shields.io/badge/Muhamad_Rizaludin-30302f?style=flat&logo=linkedin" /></a>
+    📫 [![Gmail Badge](https://img.shields.io/badge/-muhamadrizaludin24@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:muhamadrizaludin24@gmail.com)](muhamadrizaludin24@gmail.com)
+</p>
