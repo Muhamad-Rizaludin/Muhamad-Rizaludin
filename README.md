@@ -9,7 +9,7 @@
 	<a href="https://github.com/Muhamad-Rizaludin">
 		<img src="https://img.shields.io/github/followers/Muhamad-Rizaludin?label=Followers" alt="Muhamad-Rizaludin" />
 	</a><br/>
-  <a href="https://github.com/Muhamad-Rizaludin/"><img src="https://readme-typing-svg.herokuapp.com?color=8B64FF&center=true&vCenter=true&lines=Fullstack+Engineer+at;BIGIO;Berusaha+Menjadi+Lebih+Baik;"></a>
+  <a href="https://github.com/Muhamad-Rizaludin/"><img src="https://readme-typing-svg.herokuapp.com?color=8B64FF&center=true&vCenter=true&lines=Fullstack+Engineer+at+BIGIO;Berusaha+Menjadi+Lebih+Baik;"></a>
 </p>
 
 <p align='center'>
