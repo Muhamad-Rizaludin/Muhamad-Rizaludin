@@ -9,7 +9,7 @@
 	<a href="https://github.com/Muhamad-Rizaludin">
 		<img src="https://img.shields.io/github/followers/Muhamad-Rizaludin?label=Followers" alt="Muhamad-Rizaludin" />
 	</a><br/>
-  <a href="https://github.com/Muhamad-Rizaludin/"><img src="https://readme-typing-svg.herokuapp.com?color=8B64FF&center=true&vCenter=true&lines=Student+STMIK+Bandung;Major+Informatic+Enginering;Berusaha+Menjadi+Lebih+Baik;"></a>
+  <a href="https://github.com/Muhamad-Rizaludin/"><img src="https://readme-typing-svg.herokuapp.com?color=8B64FF&center=true&vCenter=true&lines=Fullstack+Engineer+at;BIGIO;Berusaha+Menjadi+Lebih+Baik;"></a>
 </p>
 
 <p align='center'>
@@ -17,7 +17,7 @@
         <a href="https://github.com/Muhamad-Rizaludin/">  <img src="https://github-readme-stats.vercel.app/api?username=Muhamad-Rizaludin&hide=contribs,prs&show_icons=true&hide_border=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=8B64FF" height='140' /></a><br/><br/>
        <a href="https://github.com/Muhamad-Rizaludin/"><img width="735px" alt="Muhamad Rizaludin Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Muhamad-Rizaludin&theme=github&line=8B64FF&point=d62976" /></a><br/><br/>
        <a href="https://github.com/Muhamad-Rizaludin">
-   <img align="center" width="710px" src="https://github-profile-trophy.vercel.app/?username=Muhamad-Rizaludin&column=7" alt="Muhamad Rizaludin trophy stats"/>
+   <img align="center" width="710px" src="https://github-profile-trophy.vercel.app/?username=Muhamad-Rizaludifn&column=7" alt="Muhamad Rizaludin trophy stats"/>
    </a><br/>
 </p>
 
