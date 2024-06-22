@@ -23,7 +23,7 @@
 
 <div align='center'>
      <p><strong>What i am learning/working on these days</strong></p>
-    - 🌱 I’m currently learning ReactJs and NodeJs with Express Framework</br>
+    - 🌱 I’m currently learning Flutter and NodeJs with Express Framework</br>
     - 💬 Bertanya padaku tentang apa saja karena saya percaya dengan mengajar saya jadi belajar :) .</br>
 </div>
 <h3 align='center'>Let's connect</h3>
